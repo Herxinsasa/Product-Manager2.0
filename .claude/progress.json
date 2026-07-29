@@ -1,0 +1,28 @@
+{
+  "human_summary": "",
+  "last_session": null,
+  "current_phase": null,
+  "current_skill": null,
+  "current_step": null,
+  "current_step_detail": null,
+  "milestones": [],
+  "pending_decisions": [],
+  "documents": {
+    "product-spec": {
+      "path": "docs/requirements/product-spec.md",
+      "exists": false
+    },
+    "design-brief": {
+      "path": "docs/design/design-brief.md",
+      "exists": false
+    },
+    "tech-arch": {
+      "path": "docs/architecture/tech-arch.md",
+      "exists": false
+    },
+    "dev-plan": {
+      "path": "docs/plans/dev-plan.md",
+      "exists": false
+    }
+  }
+}
